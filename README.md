@@ -1,5 +1,5 @@
-Nama: Dzakirah Rahmat Hidayat
-NIM : 220631100079
+Nama: Dzakirah Rahmat Hidayat \n
+NIM : 220631100079 \n
 Judul Aplikasi : Sistem Pendataan Mahasiswa
 Deskripsi : codingan ini berisi tentang pendataan mahasiswa VIA input, dan bisa di edit dengan mudah
 Screenshot Aplikasi : 
